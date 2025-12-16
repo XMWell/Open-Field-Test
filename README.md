@@ -1,5 +1,5 @@
 # Open Field Test: DeepLabCut Model & Analysis Pipeline
-![DeepLabCut](https://img.shields.io/badge/DeepLabCut-2.x-orange) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![DeepLabCut](https://img.shields.io/badge/DeepLabCut-3.0+-orangev) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 ## 📖 Overview
 This repository provides a comprehensive toolkit for **Open Field Test (OFT)** experiments. It streamlines the workflow from video tracking to data analysis, consisting of two main components:
 1.  **🧠 Pre-trained DLC Model:** A robust DeepLabCut model optimized for tracking mouse/rat body parts in an open field arena.
