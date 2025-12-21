@@ -56,6 +56,6 @@ Here is a side-by-side comparison between the **Normal** and **Model** groups.
 
 | | Normal Mouse | Abnormal Mouse |
 | :---: | :---: | :---: |
-| **Labeled Video** | [🎥 **Click to Watch**<br>(Normal_Mouse.mp4)](Examples/Normal_Mouse_Video.mp4) | [🎥 **Click to Watch**<br>(Model_Mouse.mp4)](Examples/Model_Mouse_Video.mp4) |
+| **Labeled Video** | <video src="https://github.com/user-attachments/assets/b8baf530-1892-4681-aa2e-10a1c0553a7e" controls muted width="300"></video> | <video src="https://github.com/user-attachments/assets/ba6c418c-29d2-4d53-8525-5df71768db46" controls muted width="300"></video> |
 | **Trajectory** <br> *(Speed Coded)* | <img src="Examples/Normal_Mouse_Trajectory.png" width="300"> | <img src="Examples/Model_Mouse_Trajectory.png" width="300"> |
 | **Heatmap** <br> *(Spatial Density)* | <img src="Examples/Normal_Mouse_Heatmap.png" width="300"> | <img src="Examples/Model_Mouse_Heatmap.png" width="300"> |
